@@ -20,7 +20,7 @@ class Pregunta6Activity : AppCompatActivity(), View.OnClickListener {
 
     override fun onClick(v: View?) {
         when (v?.id) {
-            R.id.btncalcular -> calcularValor()
+            R.id.btnCalcular -> calcularValor()
         }
     }
 

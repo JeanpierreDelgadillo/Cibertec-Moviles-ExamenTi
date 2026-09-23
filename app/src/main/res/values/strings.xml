@@ -14,4 +14,7 @@
     <string name="ejemplo">INGRESE EL VALOR</string>
     <string name="texthorasconsumidas">INGRESE LAS HORAS CONSUMIDAS</string>
     <string name="textvalor">INGRESE EL VALOR</string>
+    <string name="textsobregiro">Ingrese el monto del sobregiro</string>
+    <string name="textCalcular">Calcular</string>
+    <string name="retasolibros">Pregunta 3: Retraso en devolución de libros en biblioteca universitaria</string>
 </resources>
