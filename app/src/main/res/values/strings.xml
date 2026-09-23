@@ -4,6 +4,4 @@
     <string name="txtinput">Prendas falladas</string>
     <string name="txtpregunta1">Resolviendo pregunta 2</string>
     <string name="btncalcular">"Calcular "</string>
-    <string name="textsobregiro">Ingrese el monto de sobregiro</string>
-    <string name="textCalcular">Calcular comisión</string>
 </resources>
