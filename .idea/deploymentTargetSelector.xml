@@ -13,17 +13,6 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="Pregunta3Activity (3)">
-        <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-09-23T07:35:37.946674200Z">
-          <Target type="DEFAULT_BOOT">
-            <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=NVGE9LROINVGWWHY" />
-            </handle>
-          </Target>
-        </DropdownSelection>
-        <DialogSelection />
-      </SelectionState>
       <SelectionState runConfigName="Pregunta4Activity">
         <option name="selectionMode" value="DROPDOWN" />
         <DropdownSelection timestamp="2026-09-23T07:35:37.946674200Z">
@@ -58,6 +47,17 @@
         <DialogSelection />
       </SelectionState>
       <SelectionState runConfigName="Pregunta7Activity">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2026-09-23T07:35:37.946674200Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=NVGE9LROINVGWWHY" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="Pregunta6Activity (1)">
         <option name="selectionMode" value="DROPDOWN" />
         <DropdownSelection timestamp="2026-09-23T07:35:37.946674200Z">
           <Target type="DEFAULT_BOOT">
