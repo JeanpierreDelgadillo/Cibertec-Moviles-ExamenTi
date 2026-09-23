@@ -4,5 +4,14 @@
     <string name="txtinput">Prendas falladas</string>
     <string name="txtpregunta1">Resolviendo pregunta 2</string>
     <string name="btncalcular">"Calcular "</string>
-    <string name="retasolibros">Retraso de devolucion de libros</string>
+    <string name="txttitulo">Resolviendo Pregunta 6</string>
+    <string name="btnconsumo">CALCULAR</string>
+    <string name="tvresultado">CONSUMO DE HORAS</string>
+    <string name="consumo_de_horas_de_soporte">Consumo de horas de soporte</string>
+    <string name="ingrese_las_horas_consumidas">Ingrese las horas consumidas:</string>
+    <string name="ejemplo_45">Ejemplo: 45</string>
+    <string name="calcular">Calcular</string>
+    <string name="ejemplo">INGRESE EL VALOR</string>
+    <string name="texthorasconsumidas">INGRESE LAS HORAS CONSUMIDAS</string>
+    <string name="textvalor">INGRESE EL VALOR</string>
 </resources>
